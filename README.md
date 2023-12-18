@@ -6,6 +6,8 @@
 
 **目录：**
 
+大二上学期
+
 1. [数据结构与算法](https://github.com/Haru-Yuk1/Course-Study/tree/master/数据结构与算法) 
-2. 数字逻辑
-3. Git
+2. [数字逻辑](https://github.com/Haru-Yuk1/Course-Study/tree/master/数字逻辑)
+3. [Git](https://github.com/Haru-Yuk1/Course-Study/tree/master/Git)
