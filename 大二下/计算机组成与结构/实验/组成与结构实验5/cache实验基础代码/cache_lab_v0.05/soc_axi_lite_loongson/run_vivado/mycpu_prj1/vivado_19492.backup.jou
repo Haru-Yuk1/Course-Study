@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue May 14 21:00:31 2024
+# Process ID: 19492
+# Current directory: E:/大学学习/Course_study/大二下/计算机组成与结构/实验/组成与结构实验5/cache实验基础代码/cache_lab_v0.05/soc_axi_lite_loongson/run_vivado/mycpu_prj1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent22536 E:\大学学习\Course_study\大二下\计算机组成与结构\实验\组成与结构实验5\cache实验基础代码\cache_lab_v0.05\soc_axi_lite_loongson\run_vivado\mycpu_prj1\mycpu.xpr
+# Log file: E:/大学学习/Course_study/大二下/计算机组成与结构/实验/组成与结构实验5/cache实验基础代码/cache_lab_v0.05/soc_axi_lite_loongson/run_vivado/mycpu_prj1/vivado.log
+# Journal file: E:/大学学习/Course_study/大二下/计算机组成与结构/实验/组成与结构实验5/cache实验基础代码/cache_lab_v0.05/soc_axi_lite_loongson/run_vivado/mycpu_prj1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/大学学习/Course_study/大二下/计算机组成与结构/实验/组成与结构实验5/cache实验基础代码/cache_lab_v0.05/soc_axi_lite_loongson/run_vivado/mycpu_prj1/mycpu.xpr

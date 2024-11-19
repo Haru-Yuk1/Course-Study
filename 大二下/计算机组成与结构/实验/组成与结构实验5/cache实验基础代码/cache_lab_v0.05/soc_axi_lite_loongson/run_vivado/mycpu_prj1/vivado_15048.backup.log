@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu Oct 29 12:17:41 2020
+# Process ID: 15048
+# Current directory: E:/研究生相关/助教/计算机体系结构/实验课/cache_lab_v0.05/cache_lab_v0.05/soc_axi_lite_loongson/run_vivado/mycpu_prj1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent46472 E:\研究生相关\助教\计算机体系结构\实验课\cache_lab_v0.05\cache_lab_v0.05\soc_axi_lite_loongson\run_vivado\mycpu_prj1\mycpu.xpr
+# Log file: E:/研究生相关/助教/计算机体系结构/实验课/cache_lab_v0.05/cache_lab_v0.05/soc_axi_lite_loongson/run_vivado/mycpu_prj1/vivado.log
+# Journal file: E:/研究生相关/助教/计算机体系结构/实验课/cache_lab_v0.05/cache_lab_v0.05/soc_axi_lite_loongson/run_vivado/mycpu_prj1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/研究生相关/助教/计算机体系结构/实验课/cache_lab_v0.05/cache_lab_v0.05/soc_axi_lite_loongson/run_vivado/mycpu_prj1/mycpu.xpr
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'E:/研究生相关/助教/计算机体系结构/实验课/cache_lab_v0.05/cache_lab_v0.05/soc_axi_lite_loongson/run_vivado/mycpu_prj1'
+INFO: [Project 1-313] Project file moved from 'd:/nscscc2020/团队赛/nscscc2019-info/nscscc2019_release_v0.01/perf_test_v0.01/soc_axi_perf/run_vivado/mycpu_prj1' since last save.
+Scanning sources...
+ERROR: [Common 17-70] Application Exception: SrcMgr::createSS : type not set
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Oct 29 12:19:37 2020...
